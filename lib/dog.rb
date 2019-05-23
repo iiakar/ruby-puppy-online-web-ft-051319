@@ -17,11 +17,10 @@ class Dog
  
  def self.all
         @@all
- 
  end 
  
-  #  @@all
-   
+   def self 
+     self 
 
 end
 
