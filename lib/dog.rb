@@ -10,7 +10,7 @@ class Dog
 
     #def self.all
       #  @@all.each{|name| puts name}
-    end
+    #end
 
     def self.clear_all
         @@all.clear
@@ -20,7 +20,7 @@ class Dog
   #  @@all
    
 end
-end
 
+end
 
 
