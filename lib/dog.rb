@@ -19,7 +19,7 @@ class Dog
         @@all
  end 
  
-   def self 
+   def self.all 
      self 
 
 end
