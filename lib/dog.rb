@@ -24,4 +24,6 @@ class Dog
   
 end
 end
-#@@all
+
+puts @@all
+
