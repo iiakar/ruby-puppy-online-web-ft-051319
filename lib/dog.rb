@@ -19,4 +19,4 @@ class Dog
 
 end
 
-@@all
+#@@all
