@@ -25,5 +25,5 @@ class Dog
 end
 end
 
-puts "@@all"
+
 
